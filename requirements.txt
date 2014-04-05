@@ -1,0 +1,10 @@
+argparse==1.2.1
+demjson==1.6
+numpy==1.8.1
+pandas==0.13.1
+python-dateutil==2.2
+pytz==2014.2
+requests==2.2.1
+six==1.6.1
+wsgiref==0.1.2
+xlwt==0.7.5
