@@ -5,9 +5,8 @@ Google Option Chain + Tk + Pandas DataFrame
 
 Working Demo
 ============
-::
 
-	http://youtu.be/CjesHhBJwAo
+http://youtu.be/CjesHhBJwAo
 
 Manual Installation
 ===================
