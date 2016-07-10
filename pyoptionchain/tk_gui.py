@@ -98,7 +98,10 @@ class TkOptionGUI(object):
         self.__itemId = []
 
         #make the window maximized
-        self.__root.attributes("-zoomed", True)
+        try:
+            self.__root.attributes("-zoomed", True)
+        except:
+            self.__root.attributes("-fullscreen", True)
         #set window title
         self.__root.title(TkOptionGUI.DEFAULT_GUI_TITLE)
 
