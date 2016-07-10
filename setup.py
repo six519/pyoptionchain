@@ -7,7 +7,7 @@ except ImportError:
 
 setup(
     name='pyoptionchain',
-    version="1.0",
+    version="1.1",
     description="Google Option Chain + Tk + Pandas DataFrame",
     author='Ferdinand Silva',
     author_email='ferdinandsilva@ferdinandsilva.com',
